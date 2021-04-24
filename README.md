@@ -13,7 +13,7 @@ biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, i
 
    a. The main multilayer canopy model code is in the directory:
 
-      o multilayer_canopy
+      1. multilayer_canopy
 
       Model variables are defined in MLCanopyFluxesType.F90
       Model physical constants are defined in MLclm_varcon.F90
