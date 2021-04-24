@@ -1,0 +1,9 @@
+&clmML_inparm
+tower_name    = 'US-UMB'
+start_ymd     = 20060701
+start_tod     = 0
+stop_option   = 'ndays'
+stop_n        = 31
+clm_start_ymd = 20060101
+clm_start_tod = 0
+/
