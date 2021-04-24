@@ -24,8 +24,8 @@ biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, i
 
    b. There are two directories for the uncoupled simulations:
 
-      o offline_driver     = driver code for the offline case. The main driver is CLMml.F90
-      o offline_executable = directory containing the makefile, executable, and namelists
+      1. offline_driver     = driver code for the offline case. The main driver is CLMml.F90
+      2. offline_executable = directory containing the makefile, executable, and namelists
 
       The offline code (uncoupled to CLM5) has a namelist file read
       in offline_driver/controlMod.F90. This namelist file sets the
