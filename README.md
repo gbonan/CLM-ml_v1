@@ -9,10 +9,6 @@ Bonan, G.B., E.G. Patton, J.J. Finnigan, D.D. Baldocchi, and I.N. Harman. 2021. 
 the incorrect but useful paradigm: reevaluating big-leaf and multilayer plant canopies to model
 biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, in press.
 
-! =========================================
-! A. Description of multilayer canopy model
-! =========================================
-
 1. Directory structure
 
    a. The main multilayer canopy model code is in the directory:
