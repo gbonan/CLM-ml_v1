@@ -46,7 +46,7 @@ biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, i
 
    d. The code to create the RSL psihat look-up file is in the directory:
 
-      o rsl_lookup_tables
+      1. rsl_lookup_tables
 
 2. Run the model for a particular tower site.
 
