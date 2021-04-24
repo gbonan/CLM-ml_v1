@@ -35,11 +35,11 @@ biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, i
 
    c. The following directories are dummy CLM5 stub code only used in the offline case:
 
-      o cime_src_share_util = dummy CLM5 stub code from: cime/src/share/util
-      o clm_src_biogeophys  = dummy CLM5 stub code from: components/clm/src/biogeophys
-      o clm_src_cpl         = dummy CLM5 stub code from: components/clm/src/utils
-      o clm_src_main        = dummy CLM5 stub code from: components/clm/src/main
-      o clm_src_utils       = dummy CLM5 stub code from: components/clm/src/utils
+      1. cime_src_share_util = dummy CLM5 stub code from: cime/src/share/util
+      2. clm_src_biogeophys  = dummy CLM5 stub code from: components/clm/src/biogeophys
+      3. clm_src_cpl         = dummy CLM5 stub code from: components/clm/src/utils
+      4. clm_src_main        = dummy CLM5 stub code from: components/clm/src/main
+      5. clm_src_utils       = dummy CLM5 stub code from: components/clm/src/utils
 
       When coupled to CLM5, the CLM5 code is used instead. Some files need to be modified
       to couple with the multilayer canopy.
