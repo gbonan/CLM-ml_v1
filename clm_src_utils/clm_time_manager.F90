@@ -365,6 +365,8 @@ end function isleap
 
        calday = get_prev_calday()
 
+       get_curr_calday = calday
+
     else if (offset > 0) then
 
        ! This option does not work
