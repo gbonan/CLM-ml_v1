@@ -7,7 +7,8 @@ This is the code described in:
 
 Bonan, G.B., E.G. Patton, J.J. Finnigan, D.D. Baldocchi, and I.N. Harman. 2021. Moving beyond
 the incorrect but useful paradigm: reevaluating big-leaf and multilayer plant canopies to model
-biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, in press.
+biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, 
+https://doi.org/10.1016/j.agrformet.2021.108435.
 
 1. Directory structure
 
