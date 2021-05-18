@@ -44,7 +44,7 @@ biosphere-atmosphere fluxes – a review. Agricultural and Forest Meteorology, i
       When coupled to CLM5, the CLM5 code is used instead. Some files need to be modified
       to couple with the multilayer canopy.
 
-   d. The code to create the RSL psihat look-up file is in the directory:
+   d. The RSL psihat look-up file is in the directory:
 
       1. rsl_lookup_tables
 
