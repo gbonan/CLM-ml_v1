@@ -405,9 +405,11 @@ end function isleap
           call endrun()
        end if
 
-       get_curr_calday = calday
+       ! get_curr_calday = calday
 
     end if
+    
+       get_curr_calday = calday
  
   end function get_curr_calday
 
