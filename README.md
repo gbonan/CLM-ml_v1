@@ -16,9 +16,9 @@ https://doi.org/10.1016/j.agrformet.2021.108435.
 
       1. multilayer_canopy
 
-      Model variables are defined in MLCanopyFluxesType.F90
-      Model physical constants are defined in MLclm_varcon.F90
-      Model parameters (array dimensions) are defined in MLclm_varpar.F90
+      Model variables are defined in MLCanopyFluxesType.F90<br/>
+      Model physical constants are defined in MLclm_varcon.F90<br/>
+      Model parameters (array dimensions) are defined in MLclm_varpar.F90<br/>
       Model run control variables are defined in MLclm_varctl.F90
 
       This code needs to be moved to the CLM5 mods directory when coupled to CLM5
@@ -56,5 +56,5 @@ https://doi.org/10.1016/j.agrformet.2021.108435.
 
    ./prgm.exe < nl.US-UMB.2006
    
-   Input files are read from the input_files directory
+   Input files are read from the input_files directory<br/>
    Model output is written to the output_files_directory
